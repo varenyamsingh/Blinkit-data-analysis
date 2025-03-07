@@ -52,4 +52,8 @@ Take Action on data-driven insights to optimize business operations.
 
 🚀 Expanded KPI Metrics – Introduce deeper financial and operational indicators.
 
+# 🖼️ Project Preview
+![blinkitprojectimage](https://github.com/user-attachments/assets/55cd0731-9c30-4357-a11b-8677353dfc8f)
+
+
 This dashboard is a game-changer for Blinkit, transforming raw data into actionable intelligence and unlocking new opportunities for business growth! 📊✨
