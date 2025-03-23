@@ -57,3 +57,13 @@ Take Action on data-driven insights to optimize business operations.
 
 
 This dashboard is a game-changer for Blinkit, transforming raw data into actionable intelligence and unlocking new opportunities for business growth! 📊✨
+
+## Project Demo
+
+
+
+https://github.com/user-attachments/assets/3dc67a63-f014-4609-ac0a-82014e2abe58
+
+
+
+
